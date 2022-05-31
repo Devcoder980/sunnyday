@@ -247,3 +247,6 @@ footer {
 .list3 {
     padding-right: 36px;
 }
+a{
+    text-decoration-line: blink;
+}
