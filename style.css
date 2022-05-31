@@ -1,5 +1,5 @@
 body {
-    background-image: url('/sunnyside-agency-landing-page-main/images/desktop/image-header.jpg');
+    background-image: url('image-header.jpg');
     background-size: 100% 600px;
     background-repeat: no-repeat;
     margin: 0px;
@@ -115,12 +115,12 @@ div>p {
 }
 
 #six {
-    background-image: url("/sunnyside-agency-landing-page-main/images/desktop/image-photography.jpg");
+    background-image: url("image-photography.jpg");
 }
 
 #five {
     justify-content: flex-end;
-    background-image: url("/sunnyside-agency-landing-page-main/images/desktop/image-graphic-design.jpg");
+    background-image: url("image-graphic-design.jpg");
 }
 
 #five,
